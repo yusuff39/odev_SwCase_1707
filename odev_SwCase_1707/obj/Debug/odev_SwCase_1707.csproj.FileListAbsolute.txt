@@ -1,0 +1,10 @@
+C:\Users\ASUS\Desktop\odevler\yapılan_17_07\odev_SwtichCase_1707\odev_SwCase_1707\odev_SwCase_1707\bin\Debug\odev_SwCase_1707.exe.config
+C:\Users\ASUS\Desktop\odevler\yapılan_17_07\odev_SwtichCase_1707\odev_SwCase_1707\odev_SwCase_1707\bin\Debug\odev_SwCase_1707.exe
+C:\Users\ASUS\Desktop\odevler\yapılan_17_07\odev_SwtichCase_1707\odev_SwCase_1707\odev_SwCase_1707\bin\Debug\odev_SwCase_1707.pdb
+C:\Users\ASUS\Desktop\odevler\yapılan_17_07\odev_SwtichCase_1707\odev_SwCase_1707\odev_SwCase_1707\obj\Debug\odev_SwCase_1707.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\odevler\yapılan_17_07\odev_SwtichCase_1707\odev_SwCase_1707\odev_SwCase_1707\obj\Debug\odev_SwCase_1707.Form1.resources
+C:\Users\ASUS\Desktop\odevler\yapılan_17_07\odev_SwtichCase_1707\odev_SwCase_1707\odev_SwCase_1707\obj\Debug\odev_SwCase_1707.Properties.Resources.resources
+C:\Users\ASUS\Desktop\odevler\yapılan_17_07\odev_SwtichCase_1707\odev_SwCase_1707\odev_SwCase_1707\obj\Debug\odev_SwCase_1707.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\odevler\yapılan_17_07\odev_SwtichCase_1707\odev_SwCase_1707\odev_SwCase_1707\obj\Debug\odev_SwCase_1707.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\odevler\yapılan_17_07\odev_SwtichCase_1707\odev_SwCase_1707\odev_SwCase_1707\obj\Debug\odev_SwCase_1707.exe
+C:\Users\ASUS\Desktop\odevler\yapılan_17_07\odev_SwtichCase_1707\odev_SwCase_1707\odev_SwCase_1707\obj\Debug\odev_SwCase_1707.pdb
